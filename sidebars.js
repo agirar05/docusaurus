@@ -17,5 +17,13 @@ module.exports = {
         'kuzzle-admin-access'
       ],
     },
+    {
+      type: 'category',
+      label: 'User Stories',
+      items: [
+        'us1',
+        'us2'
+      ],
+    },
   ],
 };
