@@ -9,5 +9,13 @@ module.exports = {
         'clever-presentation'
       ],
     },
+    {
+      type: 'category',
+      label: 'Installation',
+      items: [
+        'kuzzle-deployment',
+        'kuzzle-admin-access'
+      ],
+    },
   ],
 };
