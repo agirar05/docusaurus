@@ -22,7 +22,8 @@ module.exports = {
       label: 'User Stories',
       items: [
         'us1',
-        'us2'
+        'us2',
+        'us3'
       ],
     },
   ],
