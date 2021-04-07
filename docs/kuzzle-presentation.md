@@ -33,6 +33,8 @@ De plus, cette solution correspond totalement au cas d'utilisation de ce projet,
 
 ## Format de la base
 
+Kuzzle fonctionne de la sorte suivante, une instance de Kuzzle contient des index, un index contient des collections, des collections contiennent des documents qui eux contiennent des champs.
+
 ![Kuzzle Database Format](/img/kuzzle_database_format.PNG)
 
 Capture issue de la [documentation](https://docs.kuzzle.io/core/1/guides/essentials/store-access-data/).

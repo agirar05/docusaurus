@@ -15,6 +15,11 @@ On a un utilisateur, il va effectuer une course à pied avec un suivis GPS à l'
 La base de données utilisée est Kuzzle, vous pouvez retrouver une présentation de cette technologie [ici](kuzzle-presentation). Le téléphone va envoyer les informations GPS dans kuzzle par une application Android, développée en Java. Enfin, le site web est un site React JS.
 Kuzzle va être déployé dans Clever Cloud, dont vous pouvez voir la présentation [ici](clever-presentation).
 
+## Infrastructure
+
+Voici un schéma de l'infrastructure attendue du projet.
+![Project infra](/img/project_infra.PNG)
+
 ## Liens utiles
 
 - Miro (gestion de projet): <https://miro.com/welcomeonboard/DWMfHXujprJhKiULfNH0dpjLtqc3JYAmiwkr0qOdMxS1H5dxmT4ad3HBFY9KuvgD>
