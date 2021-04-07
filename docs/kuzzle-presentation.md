@@ -31,8 +31,13 @@ J'ai décider d'utiliser cette solution pour faire d'une pierre deux coups. En e
 
 De plus, cette solution correspond totalement au cas d'utilisation de ce projet, c'est à dire la remontée d'informations depuis un appareil connecté puis la lecture sur une application web.
 
+## Format de la base
+
+![Kuzzle Database Format](/img/kuzzle_database_format.PNG)
+
+Capture issue de la [documentation](https://docs.kuzzle.io/core/1/guides/essentials/store-access-data/).
+
 ## Liens utiles
 
 - Site web: <https://kuzzle.io/>
-
 - Documentation: <https://docs.kuzzle.io/>

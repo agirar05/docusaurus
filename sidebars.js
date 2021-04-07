@@ -19,6 +19,14 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Utilisation',
+      items: [
+        'sdk-javascript',
+        'exemple-sdk-javascript'
+      ]
+    },
+    {
+      type: 'category',
       label: 'User Stories',
       items: [
         'us1',
