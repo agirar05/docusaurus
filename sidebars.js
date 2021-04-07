@@ -22,7 +22,8 @@ module.exports = {
       label: 'Utilisation',
       items: [
         'sdk-javascript',
-        'exemple-sdk-javascript'
+        'exemple-sdk-javascript',
+        'sdk-android'
       ]
     },
     {
