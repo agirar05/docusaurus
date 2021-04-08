@@ -14,7 +14,7 @@ La collection ```activity``` contient 1 document, avec un id et le nom du sport,
 
 La collection ```position``` va contenir plusieurs documents, dans mon cas 9, avec un champ id, un champ id d'activité, un champ position (geo_point) avec latitude et longitude, ainsi qu'un champ timestamp.
 
-Ces 9 document de position correspondent donc à l'activité présente dans la collection ```activity```, et ils vont me permettre d'afficher la route que l'utilisateur a parcouru.
+Ces 9 documents de position correspondent donc à l'activité présente dans la collection ```activity```, et ils vont me permettre d'afficher la route que l'utilisateur a parcouru.
 
 ## Récupération des données
 

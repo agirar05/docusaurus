@@ -12,7 +12,7 @@ On a un utilisateur, il va effectuer une course à pied avec un suivis GPS à l'
 
 ## Technologies utilisées
 
-La base de données utilisée est Kuzzle, vous pouvez retrouver une présentation de cette technologie [ici](kuzzle-presentation). Le téléphone va envoyer les informations GPS dans kuzzle par une application Android, développée en Java. Enfin, le site web est un site React JS.
+La solution pour la base de données utilisée est Kuzzle, vous pouvez retrouver une présentation de cette technologie [ici](kuzzle-presentation). Le téléphone va envoyer les informations GPS dans kuzzle par une application Android, développée en Java. Enfin, le site web est un site React JS.
 Kuzzle va être déployé dans Clever Cloud, dont vous pouvez voir la présentation [ici](clever-presentation).
 
 ## Infrastructure

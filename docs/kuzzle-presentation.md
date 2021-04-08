@@ -13,11 +13,11 @@ Kuzzle est une solution open-source française qui comprend de nombreuses foncti
 
 Kuzzle peut être utilisé pour du Backend d'application mobiles, pour du Backend IoT, pour des applications web ou des PWA (Progressive Web App), ou encore pour être un Middleware.
 
-Kuzzle est assez bien reconnu et est utilisé par certaines grandes entreprises, telles que la SNCF, le Crédit Agricole, ou encore Bouygues, et pleins d'autres encore...
+Kuzzle est assez bien reconnu et est utilisé par certaines grandes entreprises, telles que la SNCF, le Crédit Agricole, ou encore Bouygues, et pleins d'autres...
 
 ## Ce que Kuzzle apporte
 
-Le plus gros avantage de Kuzzle, est l'envoie/la réception de données en temps réel, mais il permet aussi la sécurisation de la base de données, avec gestion de rôles, authentification des utilisateurs, des règles de sécurité pour envoyer ou accéder aux données.
+Le plus gros avantage de Kuzzle, est l'envoi/la réception de données en temps réel, mais il permet aussi la sécurisation de la base de données, avec gestion de rôles, authentification des utilisateurs, des règles de sécurité pour envoyer ou accéder aux données.
 
 De plus Kuzzle dispose de SDK pour pouvoir l'intégrer rapidement et facilement à certains languages de programmation, tels que par exemple l'Android, le Javascript, le Go, le PHP, le c++ et le C#.
 
