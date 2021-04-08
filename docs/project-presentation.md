@@ -18,7 +18,7 @@ Kuzzle va être déployé dans Clever Cloud, dont vous pouvez voir la présentat
 ## Infrastructure
 
 Voici un schéma de l'infrastructure attendue du projet.
-![Project infra](/img/project_infra.PNG)
+![Project infra](/img/project_infra.png)
 
 ## Liens utiles
 
